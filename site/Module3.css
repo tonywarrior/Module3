@@ -1,3 +1,29 @@
 body { 
-font-size: 16px; 
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	background-color: #FFDEAD;
+	color: #000000 
+}
+
+#header-nav{
+	background-color: #E0ffff;
+	border-radius: 0;
+	border: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1{ /* Company Name*/
+	font-family: 'Raleway', sans-serif;
+	color: #F08080;
+	font-size: 1.6em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px white;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+
 }
